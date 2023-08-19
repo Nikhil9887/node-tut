@@ -1,0 +1,1 @@
+Text from second file

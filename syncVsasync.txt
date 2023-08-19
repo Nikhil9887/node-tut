@@ -1,0 +1,15 @@
+refer 10, 11 file and their output
+
+10 -> synchronous
+11 -> asynchronous -> callback used -> we could also use promises,
+async, await
+
+output of 10 (synchronous)
+Start
+Done with this task
+Starting next task
+
+output of 11 (asynchronous)
+Start
+Starting next task
+Done with this task
